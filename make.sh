@@ -66,6 +66,11 @@ cat > index.html <<EOL
         redoc .sc-ikrQzf {
             font-size: 0.9rem !important;
         }
+            /* Reduce the font size of operation titles (like 'Login into API server') */
+        redoc .sc-fujyAs {
+            font-size: 1rem !important;
+            font-weight: normal !important;
+        }
     </style>
     <script>
         function changeVersion() {
