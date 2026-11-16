@@ -1,0 +1,11 @@
+{
+  "name": "rda_graphdb_notifications",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "retention_days": 10,
+    "search_case_insensitive": true
+  },
+  "status": "Running",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-2bcaabf8-rda_graphdb_notifications"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cfx_rdaf_topology_nodes",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "unique_keys": [
+      "node_id"
+    ],
+    "default_values": {
+      "iconURL": "Not Available"
+    },
+    "search_case_insensitive": true,
+    "_settings": {
+      "number_of_shards": 3,
+      "number_of_replicas": 1,
+      "refresh_interval": "1s"
+    },
+    "system_defined": "no"
+  },
+  "status": "Running",
+  "description": "",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-f87721dc-cfx_rdaf_topology_nodes"
+}

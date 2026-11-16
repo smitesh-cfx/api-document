@@ -1,0 +1,22 @@
+{
+  "name": "ai_projects",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "system_defined": "yes",
+    "unique_keys": [
+      "ai_project_name"
+    ],
+    "flatten_json": false,
+    "_mappings": {
+      "properties": {
+        "saved_time": {
+          "type": "date"
+        }
+      }
+    }
+  },
+  "status": "Running",
+  "description": "System-defined persistent stream 'ai_projects' for internal operations",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-1d1c2d50-ai_projects"
+}

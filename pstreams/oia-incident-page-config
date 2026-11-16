@@ -1,0 +1,16 @@
+{
+  "name": "oia-incident-page-config",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "unique_keys": [
+      "roomid",
+      "pagename"
+    ],
+    "drop_columns": [],
+    "default_values": {},
+    "case_insensitive": true
+  },
+  "status": "Running",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-069f184e-oia-incident-page-config"
+}

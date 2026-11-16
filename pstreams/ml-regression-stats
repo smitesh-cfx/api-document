@@ -1,0 +1,16 @@
+{
+  "name": "ml-regression-stats",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "unique_keys": [
+      "experimentName",
+      "jobName",
+      "versionName"
+    ],
+    "retention_days": 365,
+    "case_insensitive": true
+  },
+  "status": "Running",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-a0bc6f37-ml-regression-stats"
+}

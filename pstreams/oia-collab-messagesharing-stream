@@ -1,0 +1,17 @@
+{
+  "name": "oia-collab-messagesharing-stream",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "_mappings": {
+      "properties": {
+        "shared_time": {
+          "type": "date"
+        }
+      }
+    },
+    "case_insensitive": true
+  },
+  "status": "Running",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-dd91ac9f-oia-collab-messagesharing-stream"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "change_requests_stream",
+  "datastore_type": "OS",
+  "read_only": false,
+  "attrs": {
+    "drop_columns": [],
+    "default_values": {},
+    "retention_days": 30,
+    "case_insensitive": true
+  },
+  "status": "Running",
+  "index_name": "f54ffeb44dac435ba28e3dd3080446a5-stream-097c3582-change_requests_stream"
+}
